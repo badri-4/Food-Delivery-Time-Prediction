@@ -1,4 +1,4 @@
-# Food Delivery Time Prediction
+# Food Delivery Time Predictions
 
 This repository contains the code and documentation for predicting delivery time for a food delivery app. The goal of this project is to create regression models that accurately predict the delivery time (in minutes) based on various features in the dataset.
 
